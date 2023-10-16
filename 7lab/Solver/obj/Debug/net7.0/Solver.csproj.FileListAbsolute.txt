@@ -1,0 +1,11 @@
+C:\Users\rvz03\Desktop\TPO\7lab\Solver\bin\Debug\net7.0\Solver.deps.json
+C:\Users\rvz03\Desktop\TPO\7lab\Solver\bin\Debug\net7.0\Solver.dll
+C:\Users\rvz03\Desktop\TPO\7lab\Solver\bin\Debug\net7.0\Solver.pdb
+C:\Users\rvz03\Desktop\TPO\7lab\Solver\obj\Debug\net7.0\Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvz03\Desktop\TPO\7lab\Solver\obj\Debug\net7.0\Solver.AssemblyInfoInputs.cache
+C:\Users\rvz03\Desktop\TPO\7lab\Solver\obj\Debug\net7.0\Solver.AssemblyInfo.cs
+C:\Users\rvz03\Desktop\TPO\7lab\Solver\obj\Debug\net7.0\Solver.csproj.CoreCompileInputs.cache
+C:\Users\rvz03\Desktop\TPO\7lab\Solver\obj\Debug\net7.0\Solver.dll
+C:\Users\rvz03\Desktop\TPO\7lab\Solver\obj\Debug\net7.0\refint\Solver.dll
+C:\Users\rvz03\Desktop\TPO\7lab\Solver\obj\Debug\net7.0\Solver.pdb
+C:\Users\rvz03\Desktop\TPO\7lab\Solver\obj\Debug\net7.0\ref\Solver.dll
