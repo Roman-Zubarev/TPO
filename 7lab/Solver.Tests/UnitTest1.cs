@@ -28,6 +28,11 @@ namespace Solver.Tests
             GeneralTest(1, -3, 2, 2, 1);
         }
         [TestMethod]
+        public void UsualTest3()
+        {
+            GeneralTest(-1, 7, -10, 2, 5);
+        }
+        [TestMethod]
         public void NegativeDisctiminant()
         {
             GeneralTest(1,1,1);
@@ -37,11 +42,27 @@ namespace Solver.Tests
         {
             GeneralTest(2, 2, 2);
         }
-
+        [TestMethod]
+        public void NegativeDisctiminant3()
+        {
+            GeneralTest(3, 4, 2);
+        }
         [TestMethod]
         public void ZeroDisciminant()
         {
             GeneralTest(1, 2, 1, -1);
+        }
+
+        [TestMethod]
+        public void ZeroDisciminant2()
+        {
+            GeneralTest(1, -6, 9, 3);
+        }
+
+        [TestMethod]
+        public void ZeroDisciminant3()
+        {
+            GeneralTest(1, -4, 4, 2);
         }
     }
 }

@@ -4,9 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        var result = QuadraticSolver.Solve(2, 2, 2);
+        var result = QuadraticSolver.Solve(-1, 7, -10);
         Console.WriteLine(result[0]);
-       // Console.WriteLine(result[1]);
+        Console.WriteLine(result[1]);
     }
 }
     
